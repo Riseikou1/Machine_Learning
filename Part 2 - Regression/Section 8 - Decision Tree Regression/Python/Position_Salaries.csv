@@ -1,0 +1,20 @@
+Position,Level,Salary
+Business Analyst,1,45000
+Junior Consultant,2,50000
+Senior Consultant,3,60000
+Manager,4,80000
+Country Manager,5,110000
+Region Manager,6,150000
+Partner,7,200000
+Senior Partner,8,300000
+C-level,9,500000
+CEO,10,1000000
+Partner,7,200000
+Managing_Partner,7,210000
+Senior Partner,8,300000
+C-level,9,500000
+Chief_Technology_Officer,9,520000
+Chief_Operating_Officer,9,530000
+Chief_Financial_Officer,9,540000
+CEO,10,1000000
+Executive Chairman,10,1200000
